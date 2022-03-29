@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+}
+nav{
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.navbar-image{
+  width: 165px;
+}
+
+.App{
+  font-family: sans-serif;
+  text-align: center;
+}
